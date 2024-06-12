@@ -18,7 +18,7 @@ CSS3
 
 Bootstrap 5
 
-git clone https://github.com/yourusername/food-website.git
+git clone: https://github.com/bhagiradhijayaram/Responsive_Food_Website.git
 
 Navigate to the project directory: cd food-website
 
