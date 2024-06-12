@@ -22,6 +22,9 @@ git clone: https://github.com/bhagiradhijayaram/Responsive_Food_Website.git
 
 Navigate to the project directory: cd food-website
 
+Live Preview: 
+
+
 Contributing
 
 I welcome contributions to enhance the project! Feel free to fork the repository and create a pull request with your improvements.
