@@ -23,7 +23,8 @@ git clone: https://github.com/bhagiradhijayaram/Responsive_Food_Website.git
 Navigate to the project directory: cd food-website
 
 Live Preview: 
-"C:\Users\Jayaram  Prabhakar\OneDrive\Pictures\Screenshots\Screenshot (233).png"
+![Screenshot (233)](https://github.com/bhagiradhijayaram/Responsive_Food_Website/assets/116064700/94f96d76-eeae-4b95-a36d-1807618e4ed1)
+
 
 
 Contributing
